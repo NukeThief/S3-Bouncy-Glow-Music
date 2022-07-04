@@ -1,5 +1,4 @@
 # S3-Bouncy-Glow-Music
-
 This mod tries it's best at giving you the refinements of S3 prototype tracks from the Bouncy Glow's Music Room!
 
 The chosen refinements are:
